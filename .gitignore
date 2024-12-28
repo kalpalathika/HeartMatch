@@ -1,0 +1,66 @@
+# .NET Core / .NET 5+ / .NET 6+ specific files
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+*.log
+*.vspscc
+# ASP.NET specific files
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+# MacOS-specific
+.DS_Store
+# Linux-specific
+*~ 
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+# Backup files
+*.bak
+*.swp
+# Other files to ignore
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Client-side (e.g., Angular, React, Vue.js) files
+node_modules/
+dist/
+build/
+*.log
+*.env
+*.local
+*.npmrc
+yarn.lock
+package-lock.json
+bower_components/
+
+# TypeScript / JavaScript
+*.tsbuildinfo
+*.js.map
+*.d.ts
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
